@@ -1,4 +1,4 @@
-# First Chapter
+![](/assets/manual.png)# First Chapter
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
@@ -43,5 +43,8 @@ Enlaces2
 This is [an example][id] reference-style link.
 
 [id]: https://sites.google.com/site/ullrtoolbox/ "Optional Title Here"
+
+
+An image: ![Una imagen de GitBook](/assets/manual.png)
 
    
