@@ -4,7 +4,7 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 # This is an h1 tag
 ## This is an h2 tag
-###### This is an h6 tag
+###### This is an h6 tag 
 
 Hola 
 
