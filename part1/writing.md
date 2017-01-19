@@ -1,3 +1,3 @@
 writing.md
 
-termino 1
+término 1
