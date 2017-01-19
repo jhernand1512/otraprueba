@@ -47,6 +47,7 @@ This is [an example][id] reference-style link.
 
 An image: ![Una imagen de GitBook](/assets/manual.png)
 
+Con el término 2 nos referimos a 
 
 $$ x=\frac{1+y}{1+2z^2} $$
 
